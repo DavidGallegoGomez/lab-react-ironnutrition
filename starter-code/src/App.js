@@ -14,8 +14,8 @@ class App extends Component {
     return (
       <div className="container">
         <h1 className="title is-flex">Iron-Nutrition</h1>
-        <div class="columns">
-          <div class="column">
+        <div className="columns">
+          <div className="column">
             {list}
           </div>
         </div>    
